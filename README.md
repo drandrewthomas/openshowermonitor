@@ -1,6 +1,6 @@
-###Open Shower Monitor
+##Open Shower Monitor
 
-##Introduction
+###Introduction
 
 This is the home of the open shower project, which hopes to inspire people to use their Maker skills to monitor the amount of water they use when showering. Hopefully, as well as making people more aware of just how much water a simple shower can use, it could help make you more eco-efficient. Also, it seems like a fun project :-)
 
@@ -10,6 +10,6 @@ Also, a little caveat: mixing water and electricity can be dangerous, so please 
 
 I hope you have some warm, wet, Makery fun :-)
 
-##How to use it
+###How to use it
 
 As the photo of my setup shows, I put the circuit and battery in a plastic bag with only the flow meter wires emerging from it. Then I used tape to seal the bag, although there's no reason why the circuit can't be built into a waterproof box. Then the circuit can be connected to a PC or Android tablet over Bluetooth using a serial terminal (e.g. the Arduino serial monitor, or BlueTerm on Android). Data from the circuit will then stream to your computer and when you have enough you can save it to a text document, with a csv extension, and open it in a spreadsheet to graph the flow rates.
